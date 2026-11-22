@@ -2,7 +2,7 @@
 
 **Household routines that actually happen**
 
-> #26 of 33 in the build order · Harder · Revenue potential: Medium · Home & Household
+> #20 of 33 · Wave 2: Recurring keepers · Used: Daily/weekly · Harder · Revenue potential: Medium · Home & Household
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Before/after photos and reset checklists |
 | Next step | Next week's routine; seasonal packs |
 | Cadence | Daily/weekly |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
