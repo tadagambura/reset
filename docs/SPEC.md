@@ -50,11 +50,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Rooms sparkle clean as tasks are ticked; Sunday reset gets a sweeping broom animation
+- Task ticked: the room sparkles
+- Sunday reset: the stickman sweeps in cartoon fast-forward
+- Laundry done: the socks pair up and hold hands
+- Room spotless: the stickman slides across the floor in socks
+- Chore shared: a paper plane delivers it to a housemate
 
 
 ## AI
