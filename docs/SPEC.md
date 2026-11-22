@@ -1,6 +1,6 @@
 # Reset: Spec
 
-**Household routines that actually happen** · #26 of 33 in the build order · Harder · Revenue potential: Medium · Home & Household · Source: ChatGPT + Perplexity
+**Household routines that actually happen** · #20 of 33 · Wave 2: Recurring keepers · Used: Daily/weekly · Harder · Revenue potential: Medium · Home & Household · Source: ChatGPT + Perplexity
 
 ## One-liner
 
@@ -49,6 +49,11 @@ Prices are starting points; test before committing.
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
 
 ## Platform & data
 
