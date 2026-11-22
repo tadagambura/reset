@@ -56,6 +56,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Next week's routine; seasonal packs |
 | Cadence | Daily/weekly |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Rooms sparkle clean as tasks are ticked; Sunday reset gets a sweeping broom animation
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
