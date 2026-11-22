@@ -1,6 +1,6 @@
 # Reset: Spec
 
-**Household routines that actually happen** · #19 of 32 · Wave 2: Recurring keepers · Used: Daily/weekly · Harder · Revenue potential: Medium · Home & Household · Source: ChatGPT + Perplexity
+**Household routines that actually happen** · #19 of 31 · Wave 2: Recurring keepers · Used: Daily/weekly · Harder · Revenue potential: Medium · Home & Household · Source: ChatGPT + Perplexity
 
 ## One-liner
 
