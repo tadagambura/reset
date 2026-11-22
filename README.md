@@ -42,6 +42,8 @@ Renters, parents, couples, students, anyone overwhelmed by housework.
 | Premium | £3.99/month: shared household, custom routines, packs, history |
 | Ads | Light |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
