@@ -5,6 +5,7 @@ export const brand: Brand = {
   name: 'Reset',
   tagline: 'Share the mental load, and check in on your people',
   fonts: { display: 'Outfit_700Bold' },
+  defaultTheme: 'sage',
   radius: 18,
   light: {
     bg: '#F6F5F1',
