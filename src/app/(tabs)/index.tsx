@@ -132,7 +132,7 @@ export default function Home() {
               track('core_action_completed', { what: 'check_in', shared: ci.shared });
               setChecking(false);
               if (ci.battery <= 20) celebrate({ scene: 'battery-low', emoji: '☕', title: 'Low battery', body: 'A rain cloud, an umbrella and a cup of tea. Go gently today.' });
-              else celebrate({ scene: 'checkin', emoji: '🧘', title: 'Checked in', body: 'The stickman floats up and a bird lands on his head.' });
+              else celebrate({ scene: 'checkin', emoji: '🧘', title: 'Checked in', body: 'Kaos floats up, cross-legged, and a bird lands on his head.' });
             }}
           />
         </Stack>
