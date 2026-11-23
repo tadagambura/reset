@@ -1,6 +1,6 @@
 # Reset: Spec
 
-**Share the mental load, and check in on your people** · #9 of 15 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: High · Home & Household · Source: ChatGPT + Perplexity + owner's idea (merges PocketChores, GreenRoutine, DashLog, MoodNote)
+**Share the mental load, and check in on your people** · #9 of 17 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: High · Home & Household · Source: ChatGPT + Perplexity + owner's idea (merges PocketChores, GreenRoutine, DashLog, MoodNote)
 
 ## One-liner
 

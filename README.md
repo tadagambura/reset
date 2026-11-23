@@ -2,7 +2,7 @@
 
 **Share the mental load, and check in on your people**
 
-> #9 of 15 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: High · Home & Household
+> #9 of 17 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: High · Home & Household
 
 ## What it is
 
@@ -85,5 +85,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 15 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 17 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
