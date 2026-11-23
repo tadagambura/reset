@@ -32,7 +32,7 @@ Reset is the household hub that carries the mental load with you. Chores and rou
 | Model | Detail |
 |---|---|
 | Free | One household, core chores and check-ins, with ads (never on check-ins or kids' screens) |
-| Premium | £3.99/month or £29.99/year per household: Family Bank, circles, admin calendar, insights, no ads |
+| Premium | From £3.49/month or £29.99/year per household (yearly shown first): Family Bank, circles, admin calendar, insights, no ads |
 | Ads | None in family/kids areas |
 
 Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
