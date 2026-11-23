@@ -1,38 +1,39 @@
 # Reset: Spec
 
-**Household routines that actually happen** · #19 of 31 · Wave 2: Recurring keepers · Used: Daily/weekly · Harder · Revenue potential: Medium · Home & Household · Source: ChatGPT + Perplexity
+**Share the mental load, and check in on your people** · #11 of 16 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: High · Home & Household · Source: ChatGPT + Perplexity + owner's idea (merges PocketChores, GreenRoutine, DashLog, MoodNote)
 
 ## One-liner
 
-Short, repeatable cleaning and household routines: a daily 10-minute reset, a Sunday reset, laundry, bins and seasonal tasks, room by room. Share the household's tasks and assign them.
+Reset is the household hub that carries the mental load with you. Chores and routines are shared and balanced (see at a glance who's carrying what), household renewals never sneak up (MOT, TV licence, insurance, passport, bin day), and the Family Bank turns chores into virtual pocket money for the kids. Everyone can do a 20-second check-in, and your circles (household or friends) can see how people are doing where they choose to share: 'Sam's social battery is at 30% today'.
 
 ## Problem / audience
 
-- **Who it's for:** Renters, parents, couples, students, anyone overwhelmed by housework.
-- **The problem it solves:** Cleaning piles up without a routine, and splitting it in a household causes friction.
-- **Example:** A parent opens Reset on Sunday, does a 20-minute kitchen reset and assigns the bins to their partner.
+- **Who it's for:** Couples, families and house-shares who are tired of one person remembering everything, plus friend groups who want a gentle way to check in.
+- **The problem it solves:** One person carries the invisible to-do list, chores cause friction, renewals get missed, and it's hard to know how the people you live with are really doing.
+- **Example:** On Sunday a couple runs their 20-minute reset, the fairness view shows one of them did 70% of the chores this week so the app rebalances next week's, the kids' Family Bank cards get paid, and a nudge reminds them the car insurance renews in 14 days. Sam's friends see her social battery is low and plan a quiet night in.
 
 ## MVP features (ship with only these)
 
-1. Room-by-room checklists
-2. Daily 10-minute and weekly reset routines
-3. Laundry, bins and seasonal reminders
-4. Tick off and see progress per room
-5. Optional before/after photos kept on the device
+1. Shared chores and routines with a fairness view of who's carrying the load
+2. Household admin calendar: MOT, tax, insurance, TV licence, passports, bin day, with reminders
+3. Family Bank: kids earn virtual pocket money for chores, a family shop, savings interest (no real money)
+4. 20-second check-ins (mood, energy, social battery), private by default, shareable with a circle
+5. Circles for household and friends: 'Sam's social battery is at 30% today'
 
 ## Not in MVP
 
-- Shared household and task assignment (needs sync)
-- Household packs: move-in, deep clean, spring clean
-- Custom routines
+- Eco swaps and 'use it up' reminders (from GreenRoutine)
+- Kid devices for the Family Bank
+- Patterns and weekly insights from your own check-ins
+- Room-by-room deep-clean packs
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
-| Free | Routines, with ads |
-| Premium | £3.99/month: shared household, custom routines, packs, history |
-| Ads | Light |
+| Free | One household, core chores and check-ins, with ads (never on check-ins or kids' screens) |
+| Premium | £3.99/month or £29.99/year per household: Family Bank, circles, admin calendar, insights, no ads |
+| Ads | None in family/kids areas |
 
 Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
@@ -40,12 +41,12 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 
 | Stage | Design |
 |---|---|
-| Cue | Daily and Sunday reset reminders |
-| Tiny win | Tick a task |
-| Progress | Home status by room; weekly streak |
-| Share | Before/after photos and reset checklists |
-| Next step | Next week's routine; seasonal packs |
-| Cadence | Daily/weekly |
+| Cue | Daily check-in, Sunday reset, renewal reminders |
+| Tiny win | Tick a chore or do a 20-second check-in |
+| Progress | Fairness meter, home status, Family Bank balances, check-in patterns |
+| Share | Circle check-ins and household wins |
+| Next step | Next week's rebalanced chores; the next renewal |
+| Cadence | Daily |
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
@@ -54,33 +55,34 @@ never wiped, at most one notification a day by default.
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Task ticked: the room sparkles
-- Sunday reset: the stickman sweeps in cartoon fast-forward
-- Laundry done: the socks pair up and hold hands
-- Room spotless: the stickman slides across the floor in socks
-- Chore shared: a paper plane delivers it to a housemate
+- Dishes: a stickman stacks plates, they wobble and crash, and it still counts
+- Laundry overload: socks fly out of the overflowing basket
+- Family Bank pay day: the kid's card taps and coins rain into the jar
+- Check-in: the meditating stickman floats up and a bird lands on his head
+- Social battery low: a rain cloud, an umbrella and a cup of tea
 
+**Line we don't cross:** Never shame a family member for a low share or a low mood; children's screens stay calm and ad-free.
 
 ## AI
 
-**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+**Light (opt-in).** Optional weekly reflection from your own check-ins, and chore rebalancing suggestions. Code does the maths; opt-in, premium. (Portfolio rule: plain code first, code does the maths,
 cheapest model, shared budget cap, premium-gated.)
 
 ## Platform & data
 
-- **Platform:** Expo app; sharing needs Supabase.
-- **Data:** On the device for solo use; Supabase sync for households.
+- **Platform:** Expo app + shared Cloudflare backend for households and circles.
+- **Data:** Households and circles sync via the shared backend; check-ins are private unless shared; children's data kept minimal.
 - **Backend:** Device only; shared data once household sharing is added. Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
 
-- **Content pillars:** Cleaning routines; Sunday reset; Small-space hacks; Chore splitting
-- **Shareable output:** Before/after photos and reset checklists
+- **Content pillars:** Mental load; Sunday reset; Chore splitting; Family money lessons; Checking in on your people
+- **Shareable output:** Circle check-ins and household wins
 
 ## Risks
 
-The solo version is easy. Shared households is the first feature that needs accounts and sync, which is why it sits in the harder tier.
+Needs accounts, sync and careful privacy: mood and social-battery data is sensitive, so sharing is opt-in per circle and never used for ads. Children use the Family Bank: follow the UK Children's Code, no ads, minimal data. Bigger build, so it ships after the simpler Wave 1 apps.
 
 ## Launch checklist
 
