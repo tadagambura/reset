@@ -1,6 +1,6 @@
 # Reset: Spec
 
-**Share the mental load, and check in on your people** · #11 of 16 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: High · Home & Household · Source: ChatGPT + Perplexity + owner's idea (merges PocketChores, GreenRoutine, DashLog, MoodNote)
+**Share the mental load, and check in on your people** · #9 of 15 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: High · Home & Household · Source: ChatGPT + Perplexity + owner's idea (merges PocketChores, GreenRoutine, DashLog, MoodNote)
 
 ## One-liner
 
@@ -22,7 +22,7 @@ Reset is the household hub that carries the mental load with you. Chores and rou
 
 ## Not in MVP
 
-- Eco swaps and 'use it up' reminders (from GreenRoutine)
+- Eco swaps and 'use it up' reminders (from Reset)
 - Kid devices for the Family Bank
 - Patterns and weekly insights from your own check-ins
 - Room-by-room deep-clean packs

@@ -2,7 +2,7 @@
 
 **Share the mental load, and check in on your people**
 
-> #11 of 16 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: High · Home & Household
+> #9 of 15 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: High · Home & Household
 
 ## What it is
 
@@ -10,7 +10,7 @@ Reset is the household hub that carries the mental load with you. Chores and rou
 
 ## Why it's in the portfolio
 
-'Mental load' is one of the most-requested ideas in UK forums (Mumsnet, r/SomebodyMakeThis), OurHome, a popular family chore app, has been discontinued, and people already pay for shared-household tiers (Sweepy, Tody). Folding in PocketChores, GreenRoutine, DashLog and MoodNote turns five weak standalone apps into one strong daily habit for a whole household, with network effects (every member is a user).
+'Mental load' is one of the most-requested ideas in UK forums (Mumsnet, r/SomebodyMakeThis), OurHome, a popular family chore app, has been discontinued, and people already pay for shared-household tiers (Sweepy, Tody). Folding in Reset (Family Bank), Reset, Reset and Reset turns five weak standalone apps into one strong daily habit for a whole household, with network effects (every member is a user).
 
 ## Who it's for
 
@@ -30,7 +30,7 @@ Couples, families and house-shares who are tired of one person remembering every
 
 ## Later
 
-- Eco swaps and 'use it up' reminders (from GreenRoutine)
+- Eco swaps and 'use it up' reminders (from Reset)
 - Kid devices for the Family Bank
 - Patterns and weekly insights from your own check-ins
 - Room-by-room deep-clean packs
@@ -85,5 +85,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 15 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
