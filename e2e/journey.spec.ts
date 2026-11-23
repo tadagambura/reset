@@ -89,3 +89,17 @@ test('admin calendar: add MOT, mark renewed, it moves a year on', async ({ page 
   await page.getByTestId('renewed-MOT').click();
   await expect(page.getByTestId('renewal-MOT')).toContainText('in 395 days');
 });
+
+test('tips cards on Home: 20 free, sourced, the 21st is Premium', async ({ page }) => {
+  await setup(page);
+  await expect(page.getByTestId("cards-progress")).toContainText("0 of 30 cards read · 20 free");
+  await page.getByTestId("card-c01").click();
+  await expect(page.getByTestId("card-sheet")).toContainText("Source:");
+  const quiz = page.getByTestId("card-quiz-0");
+  if (await quiz.count()) await quiz.click();
+  else await page.getByTestId("card-done").click();
+  await page.getByTestId("sheet-close").click();
+  await expect(page.getByTestId("cards-progress")).toContainText("1 of 30");
+  await page.getByTestId("card-c21").click();
+  await expect(page.getByTestId("paywall")).toBeVisible();
+});

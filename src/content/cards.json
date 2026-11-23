@@ -1,0 +1,623 @@
+{
+  "pack": "reset-cards-1",
+  "version": 1,
+  "checked": "2026-11-23",
+  "reviewed": false,
+  "cards": [
+    {
+      "id": "c01",
+      "topic": "Invisible labour",
+      "title": "The work nobody sees",
+      "body": "Running a home isn't just cooking and cleaning. Sociologist Allison Daminger calls the thinking part cognitive labour: anticipating what's needed, finding options, deciding, then keeping an eye on how it's going. Noticing the kids need new school shoes, finding a shop, choosing a pair, then checking they still fit. It's real work, even though nobody sees it happening.",
+      "quiz": {
+        "q": "Which of these is part of cognitive labour, as Daminger describes it?",
+        "options": [
+          "Only making the final decision",
+          "Anticipating needs and monitoring progress",
+          "Physical jobs like hoovering"
+        ],
+        "answer": 1,
+        "explain": "Her four parts are anticipating, identifying options, deciding and monitoring. The noticing and checking are the easiest bits to miss."
+      },
+      "source": {
+        "name": "Daminger (2019), The Cognitive Dimension of Household Labor, American Sociological Review",
+        "url": "https://inequality.hks.harvard.edu/publications/cognitive-dimension-household-labor"
+      },
+      "tags": [
+        "mental load",
+        "cognitive labour",
+        "research"
+      ]
+    },
+    {
+      "id": "c02",
+      "topic": "Invisible labour",
+      "title": "Who carries the clipboard?",
+      "body": "In Daminger's interviews with couples, women did more of the anticipating and monitoring, while men were more involved in final decisions. That matters, because the person who decides often gets the credit, while the person who noticed and researched first goes unseen. This isn't about blame. It's about making the whole job visible so it can be shared fairly.",
+      "quiz": null,
+      "source": {
+        "name": "JSTOR Daily: The gendered labor of noticing and anticipating",
+        "url": "https://daily.jstor.org/the-gendered-labor-of-noticing-and-anticipating"
+      },
+      "tags": [
+        "mental load",
+        "fairness",
+        "research"
+      ]
+    },
+    {
+      "id": "c03",
+      "topic": "Fair sharing",
+      "title": "The 60% gap",
+      "body": "ONS analysis of UK time-use data from 2015 found women did around 60% more unpaid work than men on average: about 26 hours a week against 16. That covered cooking, childcare, housework and laundry, while men did more of the driving. Every household is different, but it's a useful nudge to look at who does what in yours.",
+      "quiz": {
+        "q": "In the ONS figures, roughly how many hours of unpaid work did women average each week?",
+        "options": [
+          "About 16 hours",
+          "About 40 hours",
+          "About 26 hours"
+        ],
+        "answer": 2,
+        "explain": "Women averaged about 26 hours a week and men about 16. Men did more of the transport, like driving others about."
+      },
+      "source": {
+        "name": "ONS: Women shoulder the responsibility of unpaid work",
+        "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10"
+      },
+      "tags": [
+        "unpaid work",
+        "statistics",
+        "fairness"
+      ]
+    },
+    {
+      "id": "c04",
+      "topic": "Fair sharing",
+      "title": "Make the list before you split it",
+      "body": "You can't share what you can't see. Sit down together and write out every job the house needs, from bins and birthday cards to booking the car in. Include the thinking jobs too, like noticing the washing tablets are running low. Seeing it all on one page often ends the \"but I do loads\" standoff before it starts.",
+      "quiz": null,
+      "source": {
+        "name": "Daminger (2019), The Cognitive Dimension of Household Labor, American Sociological Review",
+        "url": "https://inequality.hks.harvard.edu/publications/cognitive-dimension-household-labor"
+      },
+      "tags": [
+        "mental load",
+        "lists",
+        "fairness"
+      ]
+    },
+    {
+      "id": "c05",
+      "topic": "Fair sharing",
+      "title": "Own it, don't just help",
+      "body": "\"Just tell me what to do\" sounds kind, but it leaves one person as the manager. Daminger's research shows the planning and checking is work in itself. Try handing over whole jobs instead. If packed lunches are yours, you notice the bread's running out, add it to the shop and make them. No reminders needed, which is rather the point.",
+      "quiz": {
+        "q": "What does owning a household job fully include?",
+        "options": [
+          "Noticing, planning, doing and checking it",
+          "Doing it when someone asks",
+          "Doing it once a month"
+        ],
+        "answer": 0,
+        "explain": "Owning a job means carrying the thinking as well as the doing, so nobody else has to remind you."
+      },
+      "source": {
+        "name": "Daminger (2019), The Cognitive Dimension of Household Labor, American Sociological Review",
+        "url": "https://inequality.hks.harvard.edu/publications/cognitive-dimension-household-labor"
+      },
+      "tags": [
+        "ownership",
+        "mental load",
+        "fairness"
+      ]
+    },
+    {
+      "id": "c06",
+      "topic": "Talking about chores",
+      "title": "It's rarely just about the dishes",
+      "body": "Relate points out that rows about chores can stand in for something bigger. \"You never do the dishes\" might really mean \"I feel unsupported\". Couples often clash over who does what, how often, and how clean is clean enough, and small things can build real resentment over time. Try naming the feeling underneath as well as the task.",
+      "quiz": {
+        "q": "According to Relate, what might a complaint about the dishes really be about?",
+        "options": [
+          "The brand of washing-up liquid",
+          "Nothing, it's always just the dishes",
+          "Feeling unsupported or uncared for"
+        ],
+        "answer": 2,
+        "explain": "Relate says small chore arguments can be symptoms of a wider worry, such as feeling your partner doesn't care about your feelings."
+      },
+      "source": {
+        "name": "Relate: Are household chores causing arguments in your relationship?",
+        "url": "https://www.relate.org.uk/get-help/are-household-chores-causing-arguments-your-relationship"
+      },
+      "tags": [
+        "communication",
+        "arguments",
+        "couples"
+      ]
+    },
+    {
+      "id": "c07",
+      "topic": "Chores for children",
+      "title": "Little helpers, aged 5 to 7",
+      "body": "Children aged five to seven can often make their own bed, set and clear the table, put toys away, sort laundry and water plants, according to the American Academy of Pediatrics. It won't be perfect, and that's fine. Praise the effort rather than the result, and resist the urge to redo it while they're watching.",
+      "quiz": {
+        "q": "What does the American Academy of Pediatrics suggest praising when children do chores?",
+        "options": [
+          "Only perfect results",
+          "Their effort",
+          "Nothing, chores are just expected"
+        ],
+        "answer": 1,
+        "explain": "Specific, honest praise for effort is one of the best motivators, especially when children start a job without being reminded."
+      },
+      "source": {
+        "name": "HealthyChildren.org (American Academy of Pediatrics): Chores and responsibility",
+        "url": "https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/chores-and-responsibility.aspx"
+      },
+      "tags": [
+        "children",
+        "chores",
+        "age-appropriate"
+      ]
+    },
+    {
+      "id": "c08",
+      "topic": "Chores for children",
+      "title": "Bigger kids, bigger jobs",
+      "body": "By eight to ten, many children can hoover, help make dinner, and put away their own laundry and the shopping. By eleven or twelve, add cleaning the bathroom, changing bedsheets, doing a wash and cooking a simple meal with an adult around. Children develop at different speeds, so treat lists like these as a rough guide, not a test.",
+      "quiz": null,
+      "source": {
+        "name": "HealthyChildren.org (American Academy of Pediatrics): Chores and responsibility",
+        "url": "https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/chores-and-responsibility.aspx"
+      },
+      "tags": [
+        "children",
+        "chores",
+        "age-appropriate"
+      ]
+    },
+    {
+      "id": "c09",
+      "topic": "Chores for children",
+      "title": "Paying for chores?",
+      "body": "If you pay for chores, Coram Family Lives suggests agreeing a list of paid jobs, and the standard expected, before any money changes hands. If money's tight, a family film night the child helps choose can be the reward instead. And grown-ups count too: getting your own jobs done without moaning is the best advert going.",
+      "quiz": null,
+      "source": {
+        "name": "Coram Family Lives: Making chores fun",
+        "url": "https://www.coramfamilylives.org.uk/advice/your-family/family-life/making-chores-fun"
+      },
+      "tags": [
+        "children",
+        "chores",
+        "rewards"
+      ]
+    },
+    {
+      "id": "c10",
+      "topic": "Kids and money",
+      "title": "Pocket money basics",
+      "body": "There's no right amount of pocket money. Action for Children says it's a common way for primary-age children to start managing money, and cash helps because they can hold and count it. For older children, you might pay extra for bigger jobs like washing the car, but treat it as a reward rather than a bribe.",
+      "quiz": {
+        "q": "Action for Children says extra money for jobs should be used as what?",
+        "options": [
+          "A reward",
+          "A bribe to get things done",
+          "A replacement for pocket money"
+        ],
+        "answer": 0,
+        "explain": "Paying for extra jobs can work well, as long as the money rewards effort rather than bribing a child into doing it."
+      },
+      "source": {
+        "name": "Action for Children: Talking to children about money",
+        "url": "https://parents.actionforchildren.org.uk/home-family-life/money/talking-to-children-about-money/"
+      },
+      "tags": [
+        "pocket money",
+        "children",
+        "money"
+      ]
+    },
+    {
+      "id": "c11",
+      "topic": "Kids and money",
+      "title": "Needs, wants and small mistakes",
+      "body": "Help children split money into what they need now and what they want now, and save up for things that cost more than they've got. Action for Children notes that letting kids make small mistakes, like blowing it all on sweets they don't even like, may help them avoid bigger ones later. Bite your tongue and let the lesson land.",
+      "quiz": null,
+      "source": {
+        "name": "Action for Children: Talking to children about money",
+        "url": "https://parents.actionforchildren.org.uk/home-family-life/money/talking-to-children-about-money/"
+      },
+      "tags": [
+        "pocket money",
+        "saving",
+        "children"
+      ]
+    },
+    {
+      "id": "c12",
+      "topic": "Household admin",
+      "title": "MOT: put it on autopilot",
+      "body": "Most cars need their first MOT by the third anniversary of registration, then every year after. You can get tested up to a month (minus a day) early and keep the same renewal date. Driving without a valid MOT can mean a fine of up to £1,000. GOV.UK has a reminder service, so sign up and let it do the remembering.",
+      "quiz": {
+        "q": "How early can you get an MOT and still keep the same renewal date?",
+        "options": [
+          "Up to six months",
+          "Up to a month minus a day",
+          "Only on the expiry date"
+        ],
+        "answer": 1,
+        "explain": "Test up to a month minus a day before the old MOT runs out and your renewal date stays the same."
+      },
+      "source": {
+        "name": "GOV.UK: Getting an MOT",
+        "url": "https://www.gov.uk/getting-an-mot"
+      },
+      "tags": [
+        "car",
+        "MOT",
+        "admin"
+      ]
+    },
+    {
+      "id": "c13",
+      "topic": "Household admin",
+      "title": "Car tax doesn't tax itself",
+      "body": "Since paper tax discs went, it's easy to forget. You must tax a vehicle even if it costs nothing. You'll need the reference from a DVLA reminder letter, your V5C log book, or the green new keeper slip if you've just bought it. Not using the car? Register it as off the road (SORN) rather than leaving it untaxed.",
+      "quiz": null,
+      "source": {
+        "name": "GOV.UK: Tax your vehicle",
+        "url": "https://www.gov.uk/vehicle-tax"
+      },
+      "tags": [
+        "car",
+        "vehicle tax",
+        "admin"
+      ]
+    },
+    {
+      "id": "c14",
+      "topic": "Household admin",
+      "title": "Do you need a TV licence?",
+      "body": "You need a TV licence to watch or record live TV on any channel or device, or to use BBC iPlayer. You don't need one just for streaming services like Netflix, YouTube videos or DVDs. A colour licence costs £180. People aged 75 or over who get Pension Credit, and people who are blind, may get it free or cheaper.",
+      "quiz": null,
+      "source": {
+        "name": "GOV.UK: TV Licence",
+        "url": "https://www.gov.uk/tv-licence"
+      },
+      "tags": [
+        "TV licence",
+        "admin",
+        "bills"
+      ]
+    },
+    {
+      "id": "c15",
+      "topic": "Household admin",
+      "title": "Insurance renewal: don't just roll over",
+      "body": "Since January 2022, FCA rules mean home and motor insurers can't charge you more to renew than they'd charge a new customer for the same cover. That ended the old loyalty penalty, but it doesn't guarantee the best price around. Put renewal dates in a shared calendar, check what auto-renewal will cost, and compare before it rolls over.",
+      "quiz": {
+        "q": "Since 2022, what can't home and motor insurers do at renewal?",
+        "options": [
+          "Charge you more than an equivalent new customer",
+          "Raise prices for any reason at all",
+          "Send you a renewal notice"
+        ],
+        "answer": 0,
+        "explain": "The FCA banned price walking, so loyal customers can't be charged more than new ones. Shopping around can still save money."
+      },
+      "source": {
+        "name": "FCA: New year delivers fairer home and motor insurance renewals",
+        "url": "https://www.fca.org.uk/news/press-releases/new-year-delivers-fairer-home-motor-insurance-renewals"
+      },
+      "tags": [
+        "insurance",
+        "renewals",
+        "admin"
+      ]
+    },
+    {
+      "id": "c16",
+      "topic": "Household admin",
+      "title": "Passports: allow three weeks",
+      "body": "HM Passport Office says to allow about three weeks for a UK passport application, and longer if they need more information. Don't book travel until the new one arrives, as it'll have a new number. Adult applications cost £102 online or £115.50 on paper. A quick January check of everyone's expiry dates saves a summer panic.",
+      "quiz": null,
+      "source": {
+        "name": "GOV.UK: HM Passport Office, about our services",
+        "url": "https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services"
+      },
+      "tags": [
+        "passport",
+        "travel",
+        "admin"
+      ]
+    },
+    {
+      "id": "c17",
+      "topic": "Household admin",
+      "title": "Which bin, which night?",
+      "body": "GOV.UK has a postcode checker that points you to your council's collection-day page in England and Wales; in Scotland and Northern Ireland, contact your council directly. Many councils also list bulky waste and garden waste collections. Pop the schedule in a shared calendar so whoever's home on bin night knows which colour goes out.",
+      "quiz": null,
+      "source": {
+        "name": "GOV.UK: Find out your bin collection day",
+        "url": "https://www.gov.uk/rubbish-collection-day"
+      },
+      "tags": [
+        "bins",
+        "council",
+        "admin"
+      ]
+    },
+    {
+      "id": "c18",
+      "topic": "Weekly reset",
+      "title": "Twenty minutes on a Sunday",
+      "body": "NHS Every Mind Matters suggests planning ahead, making a to-do list and splitting big tasks into manageable chunks to ease stress. A weekly reset does all three: glance at the calendar, check bills and renewal dates, agree who's doing what, and clear one small job together. Then give yourselves some credit. Little and often beats a monthly meltdown.",
+      "quiz": null,
+      "source": {
+        "name": "NHS Every Mind Matters: Stress",
+        "url": "https://www.nhs.uk/every-mind-matters/mental-health-issues/stress/"
+      },
+      "tags": [
+        "routine",
+        "planning",
+        "stress"
+      ]
+    },
+    {
+      "id": "c19",
+      "topic": "Wellbeing",
+      "title": "The NHS five steps",
+      "body": "The NHS suggests five steps to mental wellbeing: connect with other people, be physically active, learn new skills, give to others, and pay attention to the present moment. None needs to be grand. A proper chat over tea, a walk round the block, a new recipe or a heartfelt thank-you all count.",
+      "quiz": {
+        "q": "Which of these is one of the NHS five steps to mental wellbeing?",
+        "options": [
+          "Cut out all screens",
+          "Sleep for ten hours a night",
+          "Learn new skills"
+        ],
+        "answer": 2,
+        "explain": "The five steps are connect, be active, learn new skills, give to others and pay attention to the present moment."
+      },
+      "source": {
+        "name": "NHS: 5 steps to mental wellbeing",
+        "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/"
+      },
+      "tags": [
+        "wellbeing",
+        "NHS",
+        "five steps"
+      ]
+    },
+    {
+      "id": "c20",
+      "topic": "Getting help",
+      "title": "Where to turn",
+      "body": "If someone is struggling, Samaritans are there any time, day or night, free on 116 123. Mind's support line is 0300 102 1234, weekdays 9am to 6pm. Prefer to type? Text SHOUT to 85258, any time. If someone has seriously hurt themselves or is about to, it's an emergency: call 999. Reaching out early is a strength, not a fuss.",
+      "quiz": {
+        "q": "Which number reaches Samaritans, free, at any time?",
+        "options": [
+          "0300 123 2040",
+          "101",
+          "116 123"
+        ],
+        "answer": 2,
+        "explain": "Samaritans answer 116 123 day and night, every day of the year, and it's free from mobiles and landlines."
+      },
+      "source": {
+        "name": "Mind: Mental health helplines, text and online chat",
+        "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/mental-health-helplines/"
+      },
+      "tags": [
+        "support",
+        "helplines",
+        "mental health"
+      ]
+    },
+    {
+      "id": "c21",
+      "topic": "Wellbeing",
+      "title": "Social battery",
+      "body": "\"Social battery\" isn't a scientific term, but there's something in it. A 2020 study in Heliyon tracked 74 people through their days and found sociable, outgoing behaviour was linked to feeling more tired two to three hours later. So after a big family do, plan some quiet, and let others recharge their own way too.",
+      "quiz": {
+        "q": "In the 2020 study, when was sociable behaviour linked to feeling tired?",
+        "options": [
+          "Two to three hours later",
+          "Straight away",
+          "The following week"
+        ],
+        "answer": 0,
+        "explain": "People felt more tired a couple of hours after being sociable, not in the moment itself."
+      },
+      "source": {
+        "name": "Heliyon (2020): Sociable behavior is related to later fatigue",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7260435/"
+      },
+      "tags": [
+        "social battery",
+        "rest",
+        "research"
+      ]
+    },
+    {
+      "id": "c22",
+      "topic": "Checking in",
+      "title": "Signs someone might not be OK",
+      "body": "Samaritans list signs that someone might be struggling: being tearful, irritable or withdrawn, losing interest in things they enjoy, sleeping or eating more or less, going quiet on messages, or talking about feeling hopeless or trapped. Bereavement, money worries and loneliness can add pressure. You don't need perfect words. Noticing and asking is a good start.",
+      "quiz": null,
+      "source": {
+        "name": "Samaritans: How to support someone you're worried about",
+        "url": "https://www.samaritans.org/how-we-can-help/if-youre-worried-about-someone-else/how-support-someone-youre-worried-about/"
+      },
+      "tags": [
+        "wellbeing",
+        "checking in",
+        "support"
+      ]
+    },
+    {
+      "id": "c23",
+      "topic": "Checking in",
+      "title": "Listen like Samaritans",
+      "body": "Samaritans' SHUSH tips: Show you care, Have patience, Use open questions, Say it back, and Have courage. In practice, put your phone away, let pauses sit, ask \"how are you feeling?\" rather than \"you OK?\", reflect back what you heard without jumping to fixes, and don't be put off if they're not ready to talk yet.",
+      "quiz": {
+        "q": "In Samaritans' SHUSH tips, what does \"Say it back\" mean?",
+        "options": [
+          "Give your advice straight away",
+          "Repeat what you heard to check you understood",
+          "Share a similar story of your own"
+        ],
+        "answer": 1,
+        "explain": "Reflecting back shows you're really listening. Samaritans suggest doing it without interrupting or offering solutions."
+      },
+      "source": {
+        "name": "Samaritans: SHUSH listening tips",
+        "url": "https://www.samaritans.org/media-centre/big-listen/shush-listening-tips"
+      },
+      "tags": [
+        "listening",
+        "checking in",
+        "support"
+      ]
+    },
+    {
+      "id": "c24",
+      "topic": "Wellbeing",
+      "title": "Thank the invisible stuff",
+      "body": "Giving to others is one of the NHS five steps, and small acts count: thanking someone, asking how they are and really listening, offering a hand with a job. In a busy house, a specific thank-you for the unseen work lands well. \"Thanks for sorting the car insurance\" tells someone their mental load has been noticed.",
+      "quiz": null,
+      "source": {
+        "name": "NHS: 5 steps to mental wellbeing",
+        "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/"
+      },
+      "tags": [
+        "gratitude",
+        "wellbeing",
+        "mental load"
+      ]
+    },
+    {
+      "id": "c25",
+      "topic": "Household admin",
+      "title": "Living alone? 25% off Council Tax",
+      "body": "If you're the only adult in your home who counts for Council Tax, you can get 25% off your bill. Some people are disregarded, such as full-time students, so a household might qualify even with others living there. You have to apply to your council. Worth checking after a partner moves out or a grown-up child leaves.",
+      "quiz": {
+        "q": "How much is the Council Tax discount if you're the only adult who counts?",
+        "options": [
+          "10%",
+          "50%",
+          "25%"
+        ],
+        "answer": 2,
+        "explain": "Living alone, or with only disregarded people, gets you 25% off. You need to apply to your council for it."
+      },
+      "source": {
+        "name": "GOV.UK: Council Tax, who has to pay",
+        "url": "https://www.gov.uk/council-tax/who-has-to-pay"
+      },
+      "tags": [
+        "council tax",
+        "discounts",
+        "admin"
+      ]
+    },
+    {
+      "id": "c26",
+      "topic": "Home safety",
+      "title": "Test the smoke alarm monthly",
+      "body": "Fit a smoke alarm on every level of your home and test it at least once a month. The government's Be Ready campaign says people without a working smoke alarm are 11 times more likely to die in a fire. Plan and practise an escape route, and let the children press the test button so they know the sound.",
+      "quiz": {
+        "q": "How often should you test your smoke alarms?",
+        "options": [
+          "Once a year",
+          "At least once a month",
+          "Only when the battery chirps"
+        ],
+        "answer": 1,
+        "explain": "A monthly test is the advice. Involving children helps them recognise the alarm, as some may not wake to it at night."
+      },
+      "source": {
+        "name": "GOV.UK Be Ready: Fires in the home",
+        "url": "https://beready.campaign.gov.uk/be-informed-about-hazards/fires-in-the-home/"
+      },
+      "tags": [
+        "smoke alarms",
+        "safety",
+        "routine"
+      ]
+    },
+    {
+      "id": "c27",
+      "topic": "Household admin",
+      "title": "Driving licence photocards expire",
+      "body": "Photocard driving licences need renewing every 10 years, and DVLA sends a reminder. Online it costs £14, or £17 by post. Once you reach 70, renewal works differently and there's no fee. Check the expiry date on each licence in the house and add it to the shared calendar alongside MOTs and insurance.",
+      "quiz": null,
+      "source": {
+        "name": "GOV.UK: Renew your driving licence",
+        "url": "https://www.gov.uk/renew-driving-licence"
+      },
+      "tags": [
+        "driving licence",
+        "DVLA",
+        "admin"
+      ]
+    },
+    {
+      "id": "c28",
+      "topic": "Household admin",
+      "title": "Passport rules for Europe",
+      "body": "Heading to Spain or elsewhere in the Schengen area? Your passport must have been issued less than 10 years before you arrive, and be valid for at least 3 months after the day you plan to leave. Older passports can catch people out. Always check GOV.UK's travel advice for your destination before booking.",
+      "quiz": {
+        "q": "For Spain, how long must your passport be valid after you plan to leave?",
+        "options": [
+          "At least 3 months",
+          "At least 1 week",
+          "At least 2 years"
+        ],
+        "answer": 0,
+        "explain": "Schengen rules need at least 3 months' validity after leaving, and the passport must be under 10 years old on arrival."
+      },
+      "source": {
+        "name": "GOV.UK foreign travel advice: Spain entry requirements",
+        "url": "https://www.gov.uk/foreign-travel-advice/spain/entry-requirements"
+      },
+      "tags": [
+        "passport",
+        "travel",
+        "Europe"
+      ]
+    },
+    {
+      "id": "c29",
+      "topic": "Getting help",
+      "title": "Urgent, but not 999",
+      "body": "Not every mental health worry is a 999 emergency, but some can't wait for a GP. NHS 111, by phone or online, can help with urgent mental health needs and may put you through to a trained mental health professional. If a life is at risk, or someone can't keep themselves safe, call 999 or go to A&E.",
+      "quiz": null,
+      "source": {
+        "name": "NHS: Where to get urgent help for mental health",
+        "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/"
+      },
+      "tags": [
+        "NHS 111",
+        "mental health",
+        "support"
+      ]
+    },
+    {
+      "id": "c30",
+      "topic": "Chores for children",
+      "title": "Hold a family meeting",
+      "body": "Children take chores more seriously when they help shape them. The American Academy of Pediatrics suggests regular family meetings to see how chores are going, ask for children's ideas and adjust the plan. Add one new job at a time, use a chart so it's visible, and swap scolding for calm, fair consequences.",
+      "quiz": null,
+      "source": {
+        "name": "HealthyChildren.org (American Academy of Pediatrics): Chores and responsibility",
+        "url": "https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/chores-and-responsibility.aspx"
+      },
+      "tags": [
+        "children",
+        "chores",
+        "family meeting"
+      ]
+    }
+  ]
+}
