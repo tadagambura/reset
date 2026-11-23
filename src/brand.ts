@@ -5,7 +5,7 @@ export const brand: Brand = {
   name: 'Reset',
   tagline: 'Share the mental load, and check in on your people',
   fonts: { display: 'Outfit_700Bold' },
-  defaultTheme: 'sage',
+  defaultTheme: 'gold',
   radius: 18,
   light: {
     bg: '#F6F5F1',
@@ -39,10 +39,6 @@ export const brand: Brand = {
     danger: '#FF8A80',
     focus: '#8FC9B3',
   },
-  plans: [
-    { id: 'yearly', label: 'Yearly', price: '£29.99 a year', note: 'For the whole household' },
-    { id: 'monthly', label: 'Monthly', price: '£3.49 a month' },
-  ],
   premiumPerks: ['Family Bank: virtual pocket money for chores', 'Household admin calendar (MOT, insurance, bin day…)', 'Sync and circles across phones as they launch', 'No ads, ever'],
   privacyUrl: 'https://kaoticchainz.com/privacy',
   termsUrl: 'https://kaoticchainz.com/terms',
