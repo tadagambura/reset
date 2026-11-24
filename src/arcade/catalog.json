@@ -1,0 +1,134 @@
+{
+  "app": "reset",
+  "title": "Life Arcade",
+  "emoji": "🏡",
+  "currency": {
+    "name": "Household points",
+    "one": "household point",
+    "emoji": "🏡"
+  },
+  "unlocks": "home decorations, family badges and shared achievements",
+  "games": [
+    {
+      "id": "chore-dash",
+      "name": "Chore Dash",
+      "emoji": "🧽",
+      "mechanic": "sort",
+      "tier": "free",
+      "how": "Who could do this chore? Sort it to the right age group.",
+      "teaches": "Sharing chores fairly, at the right age, takes the load off everyone.",
+      "seconds": 45,
+      "flagship": true,
+      "pack": {
+        "file": "reset/chore-dash.a6bba4d107.json",
+        "sha256": "a6bba4d107482f77c61e494137ae7ffa793adff6978ae79ca1e32dd7200b8636",
+        "bytes": 704
+      }
+    },
+    {
+      "id": "clean-sweep",
+      "name": "Clean Sweep",
+      "emoji": "🧺",
+      "mechanic": "catch",
+      "tier": "free",
+      "how": "Catch the mess for the basket. Dodge the things that should never go in it.",
+      "teaches": "Tidy fast, and know what needs special disposal.",
+      "seconds": 45,
+      "pack": {
+        "file": "reset/clean-sweep.84e49b2664.json",
+        "sha256": "84e49b2664afaca21b6d3dd9c67e45c6680bcb11aa68ffb91a1503ed81912dbb",
+        "bytes": 334
+      }
+    },
+    {
+      "id": "battery-check",
+      "name": "Battery Check",
+      "emoji": "🔋",
+      "mechanic": "sort",
+      "tier": "free",
+      "how": "Would this recharge or drain someone's social battery?",
+      "teaches": "Everyone recharges differently. Noticing helps you look after each other.",
+      "seconds": 45,
+      "pack": {
+        "file": "reset/battery-check.be8c3d620f.json",
+        "sha256": "be8c3d620fe654cde589c81d1bffcc1f84a8816609709d79b095c3fe587245bd",
+        "bytes": 636
+      }
+    },
+    {
+      "id": "renewal-pairs",
+      "name": "Memory Matters",
+      "emoji": "📅",
+      "mechanic": "memory",
+      "tier": "arcade",
+      "how": "Match each household thing to how often it needs renewing or doing.",
+      "teaches": "The boring dates that cause big headaches when missed.",
+      "seconds": 45,
+      "pack": {
+        "file": "reset/renewal-pairs.1dbc275783.json",
+        "sha256": "1dbc2757831e31b40fd510ed89be19933ac0baa0ed8f0f3dcf032e90515038cf",
+        "bytes": 260
+      }
+    },
+    {
+      "id": "family-bank",
+      "name": "Family Bank",
+      "emoji": "🐷",
+      "mechanic": "quiz",
+      "tier": "arcade",
+      "how": "Kid-friendly money challenges. Virtual money only!",
+      "teaches": "Saving, spending and waiting: money basics for the whole family.",
+      "seconds": 45,
+      "pack": {
+        "file": "reset/family-bank.6d82431faa.json",
+        "sha256": "6d82431faa70313f23c186d4c54b7f7cd1a1139360c34f3a25302203906229f5",
+        "bytes": 722
+      }
+    },
+    {
+      "id": "mood-matcher",
+      "name": "Mood Matcher",
+      "emoji": "😊",
+      "mechanic": "quiz",
+      "tier": "arcade",
+      "how": "Pick the kindest way to check in.",
+      "teaches": "Small check-ins keep families and friends close.",
+      "seconds": 45,
+      "pack": {
+        "file": "reset/mood-matcher.21c82baa39.json",
+        "sha256": "21c82baa39ddc2c625b77e4a9ac08946d68399e7b3b6081507347267317a5b26",
+        "bytes": 823
+      }
+    },
+    {
+      "id": "household-hustle",
+      "name": "Household Hustle",
+      "emoji": "🧹",
+      "mechanic": "order",
+      "tier": "arcade",
+      "how": "Put the jobs in the smartest order.",
+      "teaches": "The right order saves time and effort.",
+      "seconds": 45,
+      "pack": {
+        "file": "reset/household-hustle.bdb2e267cd.json",
+        "sha256": "bdb2e267cdde9d153f621e6af376dc5c36b400bf1777bc88728184408b217eb2",
+        "bytes": 437
+      }
+    },
+    {
+      "id": "family-quest",
+      "name": "Family Quest",
+      "emoji": "🏆",
+      "mechanic": "spinner",
+      "tier": "arcade_subscription",
+      "how": "Spin a team challenge for the whole household.",
+      "teaches": "Working together makes chores feel lighter.",
+      "seconds": 45,
+      "pack": {
+        "file": "reset/family-quest.6b2fce54a7.json",
+        "sha256": "6b2fce54a700366ce77aad3686bb66aa133686e19a66a1e28b7fdea4d6180d7b",
+        "bytes": 430
+      }
+    }
+  ]
+}
