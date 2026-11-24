@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Text } from 'react-native';
+import { AdBanner } from '@/kit/ads';
 import { addDays, startOfWeek, todayKey } from '@/kit/dates';
 import { useFeedback } from '@/kit/feedback';
 import { MoneyField } from '@/kit/inputs';
@@ -41,7 +42,7 @@ export default function Chores() {
   };
 
   return (
-    <Screen testID="chores">
+    <Screen testID="chores" banner={<AdBanner placement="chores_banner" />}>
       <H1>Chores</H1>
       <Section title="Who's carrying the load this week">
         <Card testID="fairness">
