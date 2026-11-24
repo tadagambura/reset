@@ -32,7 +32,9 @@ Reset is the household hub that carries the mental load with you. Chores and rou
 | Model | Detail |
 |---|---|
 | Free | One household, core chores and check-ins, with ads (never on check-ins or kids' screens) |
-| Premium | From £3.49/month or £29.99/year per household (yearly shown first): Family Bank, circles, admin calendar, insights, no ads |
+| Premium | £34.99/year (shown first) or £3.49/month, per household: Family Bank, circles, admin calendar, insights, no ads, every Arcade game in the app |
+| Arcade games | £0.99 each, kept forever, or every game in the app with Premium |
+| KC All Access | £25 once (every Arcade game in every KC app, kept forever) plus £7.99/month or £79.99/year (Premium in every KC app). Needs a free KC account. |
 | Ads | None in family/kids areas |
 
 Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
@@ -55,10 +57,10 @@ never wiped, at most one notification a day by default.
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Dishes: a stickman stacks plates, they wobble and crash, and it still counts
+- Dishes: Kaos stacks plates, they wobble and crash, and it still counts
 - Laundry overload: socks fly out of the overflowing basket
 - Family Bank pay day: the kid's card taps and coins rain into the jar
-- Check-in: the meditating stickman floats up and a bird lands on his head
+- Check-in: Kaos, meditating, floats up and a bird lands on his head
 - Social battery low: a rain cloud, an umbrella and a cup of tea
 
 **Line we don't cross:** Never shame a family member for a low share or a low mood; children's screens stay calm and ad-free.
