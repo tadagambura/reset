@@ -11,6 +11,8 @@ import { AddMember } from '@/components/AddMember';
 import { CardLibrary, type CardPack } from '@/kit/cards';
 import cardsRaw from '@/content/cards.json';
 import { useHome } from '@/state/home';
+import '@/arcade';
+import { ArcadeEntry } from '@/kit/arcade/screens';
 
 const BATTERY = [0, 20, 40, 60, 80, 100];
 
@@ -143,6 +145,7 @@ export default function Home() {
         <CardLibrary pack={cardsRaw as CardPack} app="reset" />
       </Section>
       <Muted center>Everything stays on this phone. Syncing between phones is coming.</Muted>
+      <ArcadeEntry />
     </Screen>
   );
 }
