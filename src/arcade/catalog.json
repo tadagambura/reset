@@ -120,7 +120,7 @@
       "name": "Family Quest",
       "emoji": "🏆",
       "mechanic": "spinner",
-      "tier": "arcade_subscription",
+      "tier": "arcade",
       "how": "Spin a team challenge for the whole household.",
       "teaches": "Working together makes chores feel lighter.",
       "seconds": 45,
